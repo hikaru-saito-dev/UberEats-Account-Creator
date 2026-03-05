@@ -2,7 +2,7 @@
 
 Automated Uber Eats account creation using mobile API simulation with IMAP or Hotmail email verification.
 
-by @yubunus on telegram
+by @OliverNyx on telegram
 
 ## ⚠️ DISCLAIMER
 
@@ -38,8 +38,8 @@ python-dotenv>=1.0.0
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yubunus/Uber-Eats-Account-Generator.git
-cd Uber-Eats-Account-Generator
+git clone https://github.com/OliverNyx/UberEats-Account-Generator.git
+cd UberEats-Account-Generator
 pip install -r requirements.txt
 ```
 
