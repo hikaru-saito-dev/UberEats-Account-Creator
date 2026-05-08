@@ -4,10 +4,6 @@ Automated Uber Eats account creation using mobile API simulation with IMAP or Ho
 
 by @OliverNyx on telegram
 
-## ⚠️ DISCLAIMER
-
-This project was initially built for my personal education, as I was studying mobile requests using mitmproxy, and python requests and automation vs a bigger corporation with higher end security and a multi-step authentication process. That being said, this project is not intended to be used whatsoever as it is against Ubers TOS, and it is purely and only for educational purposes.
-
 ## 📋 Features
 
 - Automated account creation via mobile API endpoints
